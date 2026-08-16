@@ -233,4 +233,4 @@ The cycle component is inspired by Zhou Jintao's *Life Wealth Depends on Kondrat
 
 ## License
 
-No explicit open-source license has been selected yet. The repository is publicly readable, but reuse and redistribution rights remain reserved until the owner adds a license.
+This project is licensed under the [MIT License](LICENSE). You may use, modify, distribute, sublicense and sell copies, provided that the copyright and permission notice are retained.

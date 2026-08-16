@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Cycle wealth planning">
+  <rect width="256" height="256" rx="52" fill="#07111f"/>
+  <circle cx="128" cy="128" r="74" fill="none" stroke="#294057" stroke-width="16"/>
+  <path d="M78 136c20-48 42-48 60 0s40 48 58 0" fill="none" stroke="#34d5e5" stroke-width="14" stroke-linecap="round"/>
+  <path d="M170 69l32 6-15 29" fill="none" stroke="#f5c76b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

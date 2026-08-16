@@ -1,0 +1,13 @@
+interface:
+  display_name: 康波综合理财助手
+  short_description: 结合周期、估值与风险控制，制定跨资产配置和建仓方案
+  default_prompt: 请使用 $planning-wealth-with-cycles 分析我的理财问题，给出明确结论、金额、仓位、分批规则、反证和风险边界。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
